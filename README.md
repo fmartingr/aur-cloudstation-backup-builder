@@ -1,8 +1,8 @@
-# AUR Synology Cloudstation Builder
+# AUR Synology CloudStation Backup Builder
 
-[![AUR CloudStation Drive](https://img.shields.io/badge/AUR-cloudstation--drive-green.svg)](https://aur.archlinux.org/packages/cloudstation-drive/)
+[![AUR CloudStation Drive](https://img.shields.io/badge/AUR-cloudstation--backup-green.svg)](https://aur.archlinux.org/packages/cloudstation-backup/)
 
-Simple script to generate the AUR builds for the CloudStation Drive software by synology.
+Simple script to generate the AUR builds for the CloudStation Backup software by synology.
 
 ## Usage
 
